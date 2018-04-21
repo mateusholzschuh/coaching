@@ -1,6 +1,6 @@
 # APUS Digital - Coaching
 
-## A Apus está desenvolvimento uma proposta para treinar e apoiar tecnicamente novos desenvolvedores que tenham interesse em participar do seu programa de Coaching
+## A Apus está desenvolvendo uma proposta para treinar e apoiar tecnicamente novos desenvolvedores que tenham interesse em participar do seu programa de Coaching
 
 
 #### Esse repositório tem como propósito principal oferecer:
